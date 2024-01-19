@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Kolkata, India",
   locationLink: "",
   about:
-    "",
+    "Welcome to my homepage! I am currently a final year graduate student",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/157164979?s=400&u=1dbbca65c2e8fffdbe89f2922404439042c7b4ed&v=4",
