@@ -53,10 +53,22 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Indian Statistical Institute, Kolkata",
+      degree: "Ph.D in Quatitative Economics",
+      start: "2019",
+      end: "2024",
+    },
+    {
+      school: "Indian Statistical Institute, Kolkata",
+      degree: "Master of Statistics (M.Stat)",
+      start: "2017",
+      end: "2019",
+    },
+    {
+      school: "Presidency University, Kolkata",
+      degree: "Bachelor of Science (Statistics)",
+      start: "2014",
+      end: "2017",
     },
   ],
   work: [
