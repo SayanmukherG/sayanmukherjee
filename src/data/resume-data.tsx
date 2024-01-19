@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       },
     ],
   },
-  reseach visits: [
+  publications: [
     {
       company: "Universite Paris Dauphine",
       link: "https://parabol.co",
