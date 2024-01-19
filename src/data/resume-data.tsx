@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Sayan Mukherjee",
   initials: "SM",
-  location: "Kolkata, India",
+  location: "Room 609, Economic Research Unit, Indian Statistical Institute, Kolkata",
   locationLink: "",
   about:
     "Welcome to my homepage! I am currently a final year graduate student",
