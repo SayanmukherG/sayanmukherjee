@@ -27,9 +27,7 @@ export const RESUME_DATA = {
   about:
     "Welcome to my homepage!",
   summary:
-    "I am currently a final year graduate student working on evolution and learning in games under the supervision of Prof. Souvik Roy.
-    
-    mmmm",
+    "I am currently a final year graduate student working on evolution and learning in games under the supervision of Prof. Souvik Roy.",
   avatarUrl: "https://avatars.githubusercontent.com/u/157164979?s=400&u=1dbbca65c2e8fffdbe89f2922404439042c7b4ed&v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -75,15 +73,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
+      company: "Universite Paris Dauphine",
       link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      badges: ["Paris, France"],
+      title: "Visiting Summer Ph.D Student",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "May 2022",
+      end: "July 2022",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Adaptive Cancer Therapy",
     },
     {
       company: "Clevertech",
