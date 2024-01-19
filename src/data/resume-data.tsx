@@ -63,38 +63,6 @@ export const RESUME_DATA = {
       description:
         "Adaptive Cancer Therapy",
     },
-    {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
-      badges: ["Remote"],
-      title: "Lead Android Developer → Full Stack Developer",
-      logo: ClevertechLogo,
-      start: "2015",
-      end: "2021",
-      description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
-    },
-    {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
-      badges: [],
-      title: "Android Developer → Lead Android Developer",
-      logo: JojoMobileLogo,
-      start: "2012",
-      end: "2015",
-      description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
-    },
-    {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
-      badges: [],
-      title: "C/C++ Developer",
-      logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
-    },
   ],
   skills: [
     "JavaScript",
