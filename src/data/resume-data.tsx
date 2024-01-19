@@ -51,27 +51,7 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
-    {
-      school: "Indian Statistical Institute, Kolkata",
-      degree: "Ph.D in Quatitative Economics",
-      start: "2019",
-      end: "2024",
-    },
-    {
-      school: "Indian Statistical Institute, Kolkata",
-      degree: "Master of Statistics (M.Stat)",
-      start: "2017",
-      end: "2019",
-    },
-    {
-      school: "Presidency University, Kolkata",
-      degree: "Bachelor of Science (Statistics)",
-      start: "2014",
-      end: "2017",
-    },
-  ],
-  work: [
+  reseach visits: [
     {
       company: "Universite Paris Dauphine",
       link: "https://parabol.co",
