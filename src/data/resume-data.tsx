@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Welcome to my homepage!",
   summary:
-    "I am currently a final year graduate student working on evolution and learning in games under the supervision of Prof. Souvik Roy.",
+    "I am currently a final year graduate student working on evolution and learning in games under the supervision of Prof. Souvik Roy. Prior to joining my Phd, I completed my Masters in Statistics (M.Stat) from Indian Statistical Institute, Kolkata and my Bachelors of Science in Statistics from Presidency University, Kolkata.",
   avatarUrl: "https://avatars.githubusercontent.com/u/157164979?s=400&u=1dbbca65c2e8fffdbe89f2922404439042c7b4ed&v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -64,7 +64,7 @@ export const RESUME_DATA = {
         "Adaptive Cancer Therapy",
     },
   ],
-  skills: [
+  interests: [
     "JavaScript",
     "TypeScript",
     "React/Next.js/Remix",
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
     "Relay",
     "WebRTC",
   ],
-  projects: [
+  talks: [
     {
       title: "Consultly",
       techStack: [
