@@ -128,8 +128,8 @@ export const RESUME_DATA = {
   skills: [
     "Evolutionary Game Theory",
     "Learning in Games",
-    "Applied Probability",
     "Mean-Field Stochastic Evolution",
+    "Applied Probability",
   ],
   projects: [
     {
