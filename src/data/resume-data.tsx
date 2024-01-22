@@ -61,7 +61,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
+      company: "Perturbed Bayesian best response dynamics in continuum games",
       link: "https://parabol.co",
       badges: ["Remote"],
       title: "Senior Full Stack Developer",
