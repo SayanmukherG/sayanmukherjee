@@ -63,11 +63,11 @@ export const RESUME_DATA = {
     {
       company: "Perturbed Bayesian best response dynamics in continuum games",
       link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      badges: [""],
+      title: "with Ratul Lahkar and Souvik Roy",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "",
+      end: "",
       description:
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
     },
