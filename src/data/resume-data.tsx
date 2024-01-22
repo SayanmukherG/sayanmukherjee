@@ -61,7 +61,7 @@ export const RESUME_DATA = {
   ],
   work: [
      {
-      company: "On convergence in continuum strategy potential games via mean-field stochastic evolution",
+      company: "On Convergence in Continuum Strategy Potential Games Via Mean-Field Stochastic Evolution",
       link: "https://parabol.co",
       badges: [""],
       title: "with Soumendu Sundar Mukherjee and Souvik Roy",
