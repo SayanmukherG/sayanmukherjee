@@ -91,7 +91,7 @@ export const RESUME_DATA = {
       start: "",
       end: "",
       description:
-        "Submitted in Journal of Economic Theory",
+        "Submitted in Journal of Economic Theory.",
     },
     {
       company: "Regularized Bayesian Best Response Learning in Finite Games",
@@ -102,7 +102,7 @@ export const RESUME_DATA = {
       start: "",
       end: "",
       description:
-        "Submitted in Games and Economic Behavior",
+        "Submitted in Games and Economic Behavior.",
     },
     {
       company: "The Logit Dynamic in Supermodular Games with a Continuum of Strategies: A Deterministic Approximation Approach",
@@ -110,9 +110,19 @@ export const RESUME_DATA = {
       badges: [],
       title: "with Ratul Lahkar and Souvik Roy",
       logo: NSNLogo,
-      start: "2010",
-      end: "2012",
-      description: "Creating and testing software for LTE base stations",
+      start: "",
+      end: "",
+      description: "Games and Economic Behavior, 2023, Volume 139; 133-160.",
+    },
+    {
+      company: "Generalized Perturbed Best Response Dynamics with a Continuum of Strategies",
+      link: "https://www.nokia.com",
+      badges: [],
+      title: "with Ratul Lahkar and Souvik Roy",
+      logo: NSNLogo,
+      start: "",
+      end: "",
+      description: "Journal of Economic Theory, 2022, Volume 200, 105398.",
     },
   ],
   skills: [
