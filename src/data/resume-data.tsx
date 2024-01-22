@@ -83,7 +83,7 @@ export const RESUME_DATA = {
         "Revision Requested from SIAM Journal on Control and Optimization.",
     },
     {
-      company: "Equilibrium Selection via Stochatic Evolution in Continuum Potentual Games",
+      company: "Equilibrium Selection via Stochatic Evolution in Continuum Potential Games",
       link: "https://clevertech.biz",
       badges: [],
       title: "with Ratul Lahkar and Souvik Roy",
