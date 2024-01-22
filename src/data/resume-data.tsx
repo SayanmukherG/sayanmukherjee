@@ -60,6 +60,17 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+     {
+      company: "On convergence in continuum strategy potential games via mean-field stochastic evolution",
+      link: "https://parabol.co",
+      badges: [""],
+      title: "with Soumendu Sundar Mukherjee and Souvik Roy",
+      logo: ParabolLogo,
+      start: "",
+      end: "",
+      description:
+        "Completed.",
+    },
     {
       company: "Perturbed Bayesian Best Response Dynamics in Continuum Games",
       link: "https://parabol.co",
