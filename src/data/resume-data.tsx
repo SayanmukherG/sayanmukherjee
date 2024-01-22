@@ -129,7 +129,7 @@ export const RESUME_DATA = {
     "Evolutionary Game Theory",
     "Learning in Games",
     "Applied Probability",
-    "Mean-Field Evolution",
+    "Mean-Field Stochastic Evolution",
   ],
   projects: [
     {
