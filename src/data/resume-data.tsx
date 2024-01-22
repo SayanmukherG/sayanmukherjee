@@ -64,12 +64,12 @@ export const RESUME_DATA = {
       company: "Perturbed Bayesian best response dynamics in continuum games",
       link: "https://parabol.co",
       badges: [""],
-      title: "with Ratul Lahkar and Souvik Roy",
+      title: "with Souvik Roy",
       logo: ParabolLogo,
       start: "",
       end: "",
       description:
-        "Journal of Economic Theory, 2022, Volume 200, 105398.",
+        "Revision Requested from SIAM Journal on Control and Optimization.",
     },
     {
       company: "Clevertech",
