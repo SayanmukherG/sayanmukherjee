@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "",
       end: "",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Journal of Economic Theory, 2022, Volume 200, 105398.",
     },
     {
       company: "Clevertech",
