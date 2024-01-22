@@ -51,6 +51,14 @@ export const RESUME_DATA = {
       },
     ],
   },
+  education: [
+    {
+      school: "Wrocław University of Technology",
+      degree: "Bachelor's Degree in Control systems engineering and Robotics",
+      start: "2007",
+      end: "2010",
+    },
+  ],
   work: [
     {
       company: "Parabol",
