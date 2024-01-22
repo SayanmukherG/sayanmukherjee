@@ -61,7 +61,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Perturbed Bayesian best response dynamics in continuum games",
+      company: "Perturbed Bayesian Best Response Dynamics in Continuum Games",
       link: "https://parabol.co",
       badges: [""],
       title: "with Souvik Roy",
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       company: "Equilibrium Selection via Stochatic Evolution in Continuum Potentual Games",
       link: "https://clevertech.biz",
       badges: [""],
-      title: "with Ratul Lahkar and SOuvik Roy",
+      title: "with Ratul Lahkar and Souvik Roy",
       logo: ClevertechLogo,
       start: "",
       end: "",
