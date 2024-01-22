@@ -126,13 +126,10 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Evolutionary Game Theory",
+    "Learning in Games",
+    "Applied Probability",
+    "Mean-Field Evolution",
   ],
   projects: [
     {
