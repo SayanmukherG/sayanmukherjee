@@ -27,9 +27,7 @@ export const RESUME_DATA = {
   about:
     "Hello and welcome to my homepage!",
   summary:
-    "I am currently a final year Ph.D student working on evolution and learning in games under the supervision of Prof. Souvik Roy in the Economic Reseach Unit at Indian Statistical Institute, Kolkata. Prior to my Ph.D, I completed my Masters in Statistics (M.Stat) from Indian Statistical Institute, Kolkata and my B.Sc Hons. (Statistics) from Presidency University, Kolkata.
-  
-  From May to July 2022, I was a Visiting Summer Ph.D Student in Centre de Recherche en Mathématiques de la Décision (CEREMADE) at Université Paris Dauphine-PSL, France where I was hosted by Prof. Yannick Viossat.",
+    "I am currently a final year Ph.D student working on evolution and learning in games under the supervision of Prof. Souvik Roy in the Economic Reseach Unit at Indian Statistical Institute, Kolkata. Prior to my Ph.D, I completed my Masters in Statistics (M.Stat) from Indian Statistical Institute, Kolkata and my B.Sc Hons. (Statistics) from Presidency University, Kolkata. From May to July 2022, I was a Visiting Summer Ph.D Student in Centre de Recherche en Mathématiques de la Décision (CEREMADE) at Université Paris Dauphine-PSL, France where I was hosted by Prof. Yannick Viossat.",
   avatarUrl: "https://avatars.githubusercontent.com/u/157164979?s=400&u=1dbbca65c2e8fffdbe89f2922404439042c7b4ed&v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
