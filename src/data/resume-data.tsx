@@ -63,7 +63,7 @@ export const RESUME_DATA = {
      {
       company: "On Convergence in Continuum Strategy Potential Games Via Mean-Field Stochastic Evolution",
       link: "https://parabol.co",
-      badges: [""],
+      badges: [],
       title: "with Soumendu Sundar Mukherjee and Souvik Roy",
       logo: ParabolLogo,
       start: "",
@@ -74,7 +74,7 @@ export const RESUME_DATA = {
     {
       company: "Perturbed Bayesian Best Response Dynamics in Continuum Games",
       link: "https://parabol.co",
-      badges: [""],
+      badges: [],
       title: "with Souvik Roy",
       logo: ParabolLogo,
       start: "",
@@ -85,7 +85,7 @@ export const RESUME_DATA = {
     {
       company: "Equilibrium Selection via Stochatic Evolution in Continuum Potentual Games",
       link: "https://clevertech.biz",
-      badges: [""],
+      badges: [],
       title: "with Ratul Lahkar and Souvik Roy",
       logo: ClevertechLogo,
       start: "",
@@ -105,10 +105,10 @@ export const RESUME_DATA = {
         "Submitted in Games and Economic Behavior",
     },
     {
-      company: "Nokia Siemens Networks",
+      company: "The Logit Dynamic in Supermodular Games with a Continuum of Strategies: A Deterministic Approximation Approach",
       link: "https://www.nokia.com",
       badges: [],
-      title: "C/C++ Developer",
+      title: "with Ratul Lahkar and Souvik Roy",
       logo: NSNLogo,
       start: "2010",
       end: "2012",
